@@ -59,12 +59,7 @@
 </p>
 
 <hr>
-<h2 align="center">Set-up</h2>
 
-<h4>Laptop:</h4>
-MacBook Pro 2020
-
-<hr>
 <h2 align="center">📊 Github Stats</h2>
 
 <details>
