@@ -12,8 +12,6 @@
   <br>
   📚 I'm currently studying Web Development
   <br>
-  💼 I'm working in a company in which I've been working for almost half a year, in which I'm working with the React framework.
-  <br>
   💻 I love writing code and learn anythings about it
   <br>
   📫 Contact me on: <a href="mailto: darrowdev@gmail.com">darrowdev@gmail.com</a>
