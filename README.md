@@ -14,7 +14,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📫 Contact me on: <a href="mailto: darrowdev@gmail.com">darrowdev@gmail.com</a>
+  📫 Contact me on: <a href="mailto: darrowcode@gmail.com">darrowcode@gmail.com</a>
 </p>
 
 
