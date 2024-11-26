@@ -4,19 +4,20 @@
 </h3>
 
 <div align=center>
-  
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&color=%2384F3B1&lines=If+you+can+imagine%2C+you+can+program+it)](https://git.io/typing-svg)
 </div>
 <p>
-  My real name is Adrian Alvarez, but I am better known as Darrow, Software Developer from Spain
-  <br>
-  📚 I'm currently studying Web Development
+  👨‍💻 My real name is Adrian Alvarez, but I am better known as Darrow, Software Developer from Spain
   <br>
   💻 I love writing code and learn anythings about it
   <br>
+  📚 I have a Higher Vocational Education in Web Development maked at Spain
+  <br>
+  📋 I am currently seeking new career opportunities
+  <br>
   📫 Contact me on: <a href="mailto: darrowcode@gmail.com">darrowcode@gmail.com</a>
 </p>
-
 
 
 <p>
@@ -30,40 +31,46 @@
 <hr>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-<h3 align="center">🔥 Knowledge 🔥</h3>
+<h3 align="center">💻 Technologies 💻</h3>
 <p align="center">
   <code><img title="HTML5" height="25" src="./assets/img/html5.svg"></code>
+  <code><img title="Next.js" height="25" src="./assets/img/nextjs.svg"></code>
+  <code><img title="TypeScript" height="25" src="./assets/img/typescript.svg"></code>
+  <code><img title="Nodejs" height="25" src="./assets/img/nodejs.svg"></code>
   <code><img title="CSS" height="25" src="./assets/img/css.svg"></code>
-  <code><img title="SASS" height="25" src="./assets/img/sass.svg"></code>
   <code><img title="Javascript" height="25" src="./assets/img/javascript.svg"></code>
-  <code><img title="Java" height="25" src="./assets/img/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="./assets/img/json.svg"></code>
-  <code><img title="Git" height="25" src="./assets/img/git-original.svg"></code>
+  <code><img title="Postgres" height="25" src="./assets/img/postgres.svg"></code>
+  <code><img title="React" height="25" src="./assets/img/react.svg"></code>
+  <code><img title="Java" height="25" src="./assets/img/java.svg"></code>
+  <code><img title="SASS" height="25" src="./assets/img/sass.svg"></code>
+  <code><img title="Tailwind" height="25" src="./assets/img/tailwind.svg"></code>
+  <code><img title="Astro" height="25" src="./assets/img/astro.svg"></code>
   <code><img title="MySQL" height="25" src="./assets/img/mysql.svg"></code>
-  <code><img title="Node" height="25" src="./assets/img/nodejs.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="./assets/img/vscode.png"></code>
-  <code><img title="Figma" height="25" src="./assets/img/figma.svg"></code>
 </p>
 
-<h3 align="center">📜 Learning 📜</h3>
+<h3 align="center">🛠️ Software & Tools 🛠️</h3>
 <p align="center">
-  <code><img title="PHP" height="25" src="./assets/img/php.svg"></code>
-  <code><img title="React" height="25" src="./assets/img/react-original.svg"></code>
-  <code><img title="TypeScript" height="25" src="./assets/img/Typescript_logo.svg"></code>
-  <code><img title="Laravel" height="25" src="./assets/img/laravel.svg"></code>
-  <code><img title="JQuery" height="25" src="./assets/img/jquery.svg"></code>
-  <code><img title="Bootstrap" height="25" src="./assets/img/bootstrap.svg"></code>
-  <code><img title="Angular" height="25" src="./assets/img/angular.svg"></code>
-  <code><img title="Astro" height="25" src="./assets/img/astrojs.svg"></code>
+  <code><img title="Git" height="25" src="./assets/img/git.svg"></code>
+  <code><img title="PNPM" height="25" src="./assets/img/pnpm.svg"></code>
+  <code><img title="Linux" height="25" src="./assets/img/linux.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="./assets/img/visualstudio.svg"></code>
+  <code><img title="NPM" height="25" src="./assets/img/npm.svg"></code>
+  <code><img title="Docker" height="25" src="./assets/img/docker.svg"></code>
+  <code><img title="Figma" height="25" src="./assets/img/figma.svg"></code>
+  <code><img title="GitHub" height="25" src="./assets/img/github.svg"></code>
+  <code><img title="Jira" height="25" src="./assets/img/jira.svg"></code>
+  <code><img title="MacOS" height="25" src="./assets/img/macos.svg"></code>
+  <code><img title="Vagrant" height="25" src="./assets/img/vagrant.svg"></code>
 </p>
 
 <hr>
 
 <h2 align="center">📊 Github Stats</h2>
 
-
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DarrowCode's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DarrowCode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="144px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DarrowCode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrowCode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="144px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DarrowCode's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DarrowCode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="144px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DarrowCode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrowCode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="144px"/></a>
+    <br/>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </div>
