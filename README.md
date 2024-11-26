@@ -54,6 +54,7 @@
   <code><img title="PNPM" height="25" src="./assets/img/pnpm.svg"></code>
   <code><img title="Linux" height="25" src="./assets/img/linux.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="./assets/img/visualstudio.svg"></code>
+  <code><img title="Vercel" height="25" src="./assets/img/vercel.svg"></code>
   <code><img title="NPM" height="25" src="./assets/img/npm.svg"></code>
   <code><img title="Docker" height="25" src="./assets/img/docker.svg"></code>
   <code><img title="Figma" height="25" src="./assets/img/figma.svg"></code>
