@@ -21,7 +21,7 @@
 
 
 <p>
-  <a href="https://github.com/ByDarrow" target="_blank"><img alt="Github" src="./assets/img/github-badge.svg" /></a>
+  <a href="https://github.com/DarrowCode" target="_blank"><img alt="Github" src="./assets/img/github-badge.svg" /></a>
   <a href="https://twitter.com/bydarrow" target="_blank"><img alt="Twitter" src="./assets/img/twitter-badge.svg" /></a>
   <a href="https://www.linkedin.com/in/adrianalro19" target="_blank"><img alt="LinkedIn" src="./assets/img/linkedin-badge.svg" /></a>
   <a href="https://discord.gg/CWHmCUrWhY" target="_blank"><img alt="Discord" src="./assets/img/discord-badge.svg" /></a>
